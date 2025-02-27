@@ -1,0 +1,4 @@
+PyQt6==6.5.2
+pycryptodome==3.19.0
+mutagen==1.47.0
+ncmdump==0.1.1
